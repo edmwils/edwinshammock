@@ -74,8 +74,8 @@
     },
     {
       "name": "Google Business Profile",
-      "domain": "google.com",
-      "url": "https://google.com",
+      "domain": "business.google.com",
+      "url": "https://business.google.com",
       "dr": 99,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -87,8 +87,8 @@
     },
     {
       "name": "GitHub Showcase",
-      "domain": "github.com",
-      "url": "https://github.com",
+      "domain": "https://github.com/topics/showcase",
+      "url": "https://github.com/topics/showcase",
       "dr": 97,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -269,8 +269,8 @@
     },
     {
       "name": "Guardian Technology",
-      "domain": "theguardian.com",
-      "url": "https://theguardian.com",
+      "domain": "theguardian.com/uk/technology",
+      "url": "https://www.theguardian.com/uk/technology",
       "dr": 93,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -554,7 +554,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Crunchbase",
+      "name": "Crunchbase News",
       "domain": "news.crunchbase.com",
       "url": "https://news.crunchbase.com",
       "dr": 91,
@@ -645,7 +645,7 @@
       "category": "Tech Press"
     },
     {
-      "name": "Neil P atel Ai Tools Directory",
+      "name": "Neil Patel Ai Tools Directory",
       "domain": "neilpatel.com",
       "url": "https://neilpatel.com",
       "dr": 91,
@@ -1581,9 +1581,9 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Weworkr emotely Resources weworkr",
-      "domain": "emotely.com",
-      "url": "https://emotely.com",
+      "name": "Wework remotely Resources ",
+      "domain": "weworkremotely.com",
+      "url": "https://weworkremotely.com",
       "dr": 79,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -1997,7 +1997,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Activ e Sear ch Results",
+      "name": "Active Search Results",
       "domain": "activesearchresults.com",
       "url": "https://activesearchresults.com",
       "dr": 74,
@@ -2101,7 +2101,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Product",
+      "name": "Product School",
       "domain": "productschool.com",
       "url": "https://productschool.com",
       "dr": 74,
@@ -2179,7 +2179,7 @@
       "category": "General Directories"
     },
     {
-      "name": "What's The Big",
+      "name": "What's The Big Data",
       "domain": "whatsthebigdata.com",
       "url": "https://whatsthebigdata.com",
       "dr": 74,
@@ -2452,7 +2452,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Link Centr e",
+      "name": "Link Centre",
       "domain": "secure.link",
       "url": "https://secure.link",
       "dr": 72,
@@ -2856,8 +2856,8 @@
     },
     {
       "name": "Super tools super",
-      "domain": "tools.therundown.ai",
-      "url": "https://tools.therundown.ai",
+      "domain": "therundown.ai/tools",
+      "url": "https://therundown.ai/tools",
       "dr": 68,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -3024,7 +3024,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Page",
+      "name": "Pageflows",
       "domain": "pageflows.com",
       "url": "https://pageflows.com",
       "dr": 66,
@@ -3206,7 +3206,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Bio",
+      "name": "Biosites",
       "domain": "biosites.com",
       "url": "https://biosites.com",
       "dr": 64,
@@ -3505,7 +3505,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Made With V",
+      "name": "Made With Vuejs",
       "domain": "madewithvuejs.com",
       "url": "https://madewithvuejs.com",
       "dr": 60,
@@ -3583,7 +3583,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Ben's",
+      "name": "Ben's bites",
       "domain": "bensbites.com",
       "url": "https://bensbites.com",
       "dr": 59,
@@ -3648,7 +3648,7 @@
       "category": "Tech Press"
     },
     {
-      "name": "Tool",
+      "name": "Tool finder",
       "domain": "toolfinder.co",
       "url": "https://toolfinder.co",
       "dr": 59,
@@ -3661,7 +3661,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Web Designer",
+      "name": "Web Designer news",
       "domain": "webdesignernews.com",
       "url": "https://webdesignernews.com",
       "dr": 59,
@@ -3752,7 +3752,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Indie",
+      "name": "Indie deals",
       "domain": "indiedeals.co",
       "url": "https://indiedeals.co",
       "dr": 58,
@@ -3843,7 +3843,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai X",
+      "name": "Ai X Collection",
       "domain": "aixcollection.com",
       "url": "https://aixcollection.com",
       "dr": 57,
@@ -3960,7 +3960,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai",
+      "name": "Ai scout",
       "domain": "aiscout.net",
       "url": "https://aiscout.net",
       "dr": 56,
@@ -4194,7 +4194,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Built A t",
+      "name": "Built At lightspeed",
       "domain": "builtatlightspeed.com",
       "url": "https://builtatlightspeed.com",
       "dr": 55,
@@ -4298,7 +4298,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Gpts",
+      "name": "Gpts hunter",
       "domain": "gptshunter.com",
       "url": "https://gptshunter.com",
       "dr": 54,
@@ -4337,7 +4337,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Saas Landing P age",
+      "name": "Saas Landing Page",
       "domain": "saaslandingpage.com",
       "url": "https://saaslandingpage.com",
       "dr": 54,
@@ -4428,7 +4428,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Snap",
+      "name": "Snapmunk",
       "domain": "startups.snapmunk.com",
       "url": "https://startups.snapmunk.com",
       "dr": 53,
@@ -4480,7 +4480,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Curated",
+      "name": "Curated design",
       "domain": "curated.design",
       "url": "https://curated.design",
       "dr": 52,
@@ -4519,9 +4519,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "High Rank Directory highr",
-      "domain": "ankdirectory.com",
-      "url": "https://ankdirectory.com",
+      "name": "High Rank Directory ",
+      "domain": "highrankdirectory.com",
+      "url": "https://highrankdirectory.com",
       "dr": 52,
       "link_type": "Unknown",
       "pricing": "Free",
@@ -4779,9 +4779,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Ventur e Radar ventur",
-      "domain": "eradar.com",
-      "url": "https://eradar.com",
+      "name": "Ventur e Radar ",
+      "domain": "ventureradar.com",
+      "url": "https://ventureradar.com",
       "dr": 51,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -4896,7 +4896,7 @@
       "category": "Other"
     },
     {
-      "name": "Ai",
+      "name": "Ai toolz",
       "domain": "aitoolzs.com",
       "url": "https://aitoolzs.com",
       "dr": 49,
@@ -4922,9 +4922,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Creativ e Tribes creativ",
-      "domain": "etribes.co",
-      "url": "https://etribes.co",
+      "name": "Creative Tribes ",
+      "domain": "creativetribes.co",
+      "url": "https://creativetribes.co",
       "dr": 49,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -4935,7 +4935,7 @@
       "category": "Communities"
     },
     {
-      "name": "Ez Web",
+      "name": "Ez Web Directory",
       "domain": "ezwebdirectory.com",
       "url": "https://ezwebdirectory.com",
       "dr": 49,
@@ -5052,9 +5052,9 @@
       "category": "Other"
     },
     {
-      "name": "We Lik e Tools welik",
-      "domain": "etools.com",
-      "url": "https://etools.com",
+      "name": "We Lik e Tools ",
+      "domain": "weliketools.com",
+      "url": "https://weliketools.com",
       "dr": 49,
       "link_type": "Nofollow",
       "pricing": "Freemium",
@@ -5130,9 +5130,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "Micr o Saas Examples micr",
-      "domain": "osaasexamples.com",
-      "url": "https://osaasexamples.com",
+      "name": "Micro Saas Examples ",
+      "domain": "microsaasexamples.com",
+      "url": "https://microsaasexamples.com",
       "dr": 48,
       "link_type": "Nofollow",
       "pricing": "Freemium",
@@ -5182,7 +5182,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Fastlane F",
+      "name": "Fastlane Forum",
       "domain": "thefastlaneforum.com",
       "url": "https://thefastlaneforum.com",
       "dr": 47,
@@ -5195,9 +5195,9 @@
       "category": "Communities"
     },
     {
-      "name": "Hive Index thehiv",
-      "domain": "eindex.com",
-      "url": "https://eindex.com",
+      "name": "Hive Index ",
+      "domain": "thehiveindex.com",
+      "url": "https://thehiveindex.com",
       "dr": 47,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -5208,8 +5208,8 @@
       "category": "General Directories"
     },
     {
-      "name": "How Brands Are Built howbrandsar",
-      "domain": "ebuilt.com",
+      "name": "How Brands Are Built ",
+      "domain": "howbrandsarebuilt.com",
       "url": "https://ebuilt.com",
       "dr": 47,
       "link_type": "Dofollow",
@@ -5247,7 +5247,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Saas",
+      "name": "Saas Field",
       "domain": "saasfield.com",
       "url": "https://saasfield.com",
       "dr": 47,
@@ -5260,7 +5260,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Saas",
+      "name": "Saas Wheel",
       "domain": "saaswheel.com",
       "url": "https://saaswheel.com",
       "dr": 47,
@@ -5273,7 +5273,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Solv er Tools",
+      "name": "Solver Tools",
       "domain": "solvertools.com",
       "url": "https://solvertools.com",
       "dr": 47,
@@ -5286,7 +5286,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "That App",
+      "name": "That App Show",
       "domain": "thatappshow.com",
       "url": "https://thatappshow.com",
       "dr": 47,
@@ -5351,7 +5351,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Family F riendly Sites family",
+      "name": "Family Friendly Sites family",
       "domain": "friendlysites.com",
       "url": "https://friendlysites.com",
       "dr": 46,
@@ -5507,8 +5507,8 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "My Star t Tools mystar",
-      "domain": "ttools.com",
+      "name": "My Start Tools ",
+      "domain": "mystarttools.com",
       "url": "https://ttools.com",
       "dr": 45,
       "link_type": "Dofollow",
@@ -5650,7 +5650,7 @@
       "category": "Design"
     },
     {
-      "name": "Launch",
+      "name": "Launch Directories",
       "domain": "launchdirectories.com",
       "url": "https://launchdirectories.com",
       "dr": 44,
@@ -5676,7 +5676,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Saas Hub",
+      "name": "Saas Hub Directory",
       "domain": "saashubdirectory.com",
       "url": "https://saashubdirectory.com",
       "dr": 44,
@@ -5754,7 +5754,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Design",
+      "name": "Design spells ",
       "domain": "designspells.com",
       "url": "https://designspells.com",
       "dr": 43,
@@ -5806,9 +5806,9 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Secr et Sear ch Engine Labssecr etsear",
-      "domain": "chenginelabs.com",
-      "url": "https://chenginelabs.com",
+      "name": "Secret Search Engine Labs",
+      "domain": "secretsearchenginelabs.com",
+      "url": "http://www.secretsearchenginelabs.com/",
       "dr": 43,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -5819,9 +5819,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Site Pr omotion Directory sitepr",
-      "domain": "omotiondirectory.com",
-      "url": "https://omotiondirectory.com",
+      "name": "Site Promotion Directory",
+      "domain": "sitepromotiondirectory.com",
+      "url": "https://sitepr omotiondirectory.com",
       "dr": 43,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -5845,9 +5845,9 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Stack Directory stack",
-      "domain": "directory.com",
-      "url": "https://directory.com",
+      "name": "Stack Directory",
+      "domain": "stackdirectory.com",
+      "url": "https://stackdirectory.com",
       "dr": 43,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -5884,7 +5884,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Web Tools",
+      "name": "Web Tools Weekly",
       "domain": "webtoolsweekly.com",
       "url": "https://webtoolsweekly.com",
       "dr": 43,
@@ -5897,7 +5897,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai Tool",
+      "name": "Ai Tool Mall",
       "domain": "aitoolmall.com",
       "url": "https://aitoolmall.com",
       "dr": 42,
@@ -6001,9 +6001,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "The K ey Tools thek",
-      "domain": "eytools.com",
-      "url": "https://eytools.com",
+      "name": "The Key Tools ",
+      "domain": "thekeytools.com",
+      "url": "https://thekeytools.com",
       "dr": 42,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -6144,9 +6144,9 @@
       "category": "Communities"
     },
     {
-      "name": "Smar t Kit Hubsmar",
-      "domain": "tkithub.com",
-      "url": "https://tkithub.com",
+      "name": "Smart Kit Hub",
+      "domain": "smartkithub.com",
+      "url": "https://smartkithub.com",
       "dr": 41,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -6157,8 +6157,8 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Super Ai Boomsuper",
-      "domain": "aiboom.com",
+      "name": "Super Ai Boom",
+      "domain": "superaiboom.com",
       "url": "https://aiboom.com",
       "dr": 41,
       "link_type": "Dofollow",
@@ -6248,9 +6248,9 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Find Y our Saasfindy",
-      "domain": "oursaas.com",
-      "url": "https://oursaas.com",
+      "name": "Find Your Saas",
+      "domain": "findyoursaas.com",
+      "url": "https://findyoursaas.com",
       "dr": 40,
       "link_type": "Dofollow",
       "pricing": "Freemium",
@@ -6378,7 +6378,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Ios",
+      "name": "Ios developers",
       "domain": "ios-developers.io",
       "url": "https://ios-developers.io",
       "dr": 39,
@@ -6430,7 +6430,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "The Next AI",
+      "name": "The Next AI Tool",
       "domain": "thenextaitool.com",
       "url": "https://thenextaitool.com",
       "dr": 39,
@@ -6586,8 +6586,8 @@
       "category": "General Directories"
     },
     {
-      "name": "Confetti Saasconf",
-      "domain": "ettisaas.com",
+      "name": "Confetti Saas",
+      "domain": "confettisaas.com",
       "url": "https://ettisaas.com",
       "dr": 37,
       "link_type": "Dofollow",
@@ -6638,7 +6638,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai",
+      "name": "Ai Center",
       "domain": "aicenter.ai",
       "url": "https://aicenter.ai",
       "dr": 36,
@@ -6677,7 +6677,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Crazy About",
+      "name": "Crazy About Startups",
       "domain": "crazyaboutstartups.com",
       "url": "https://crazyaboutstartups.com",
       "dr": 36,
@@ -6703,8 +6703,8 @@
       "category": "Software Reviews"
     },
     {
-      "name": "Find My Ai Toolfindmy",
-      "domain": "aitool.com",
+      "name": "Find My Ai Tool",
+      "domain": "findmyaitool.com",
       "url": "https://aitool.com",
       "dr": 36,
       "link_type": "Dofollow",
@@ -6924,8 +6924,8 @@
       "category": "General Directories"
     },
     {
-      "name": "Startup Pitch thestar",
-      "domain": "tuppitch.com",
+      "name": "Startup Pitch",
+      "domain": "thestartuppitch.com",
       "url": "https://tuppitch.com",
       "dr": 35,
       "link_type": "Nofollow",
@@ -6963,9 +6963,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Best Of Webbest",
-      "domain": "ofweb.site",
-      "url": "https://ofweb.site",
+      "name": "Best Of Web",
+      "domain": "bestofweb.site",
+      "url": "https://bestofweb.site",
       "dr": 34,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -7171,9 +7171,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Ai Parabellum aipar",
-      "domain": "abellum.com",
-      "url": "https://abellum.com",
+      "name": "Ai Parabellum ",
+      "domain": "aiparabellum.com",
+      "url": "https://aiparaabellum.com",
       "dr": 33,
       "link_type": "Dofollow",
       "pricing": "Paid",
@@ -7184,7 +7184,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai Tool",
+      "name": "Ai Tool Mate",
       "domain": "aitoolmate.com",
       "url": "https://aitoolmate.com",
       "dr": 33,
@@ -7288,9 +7288,9 @@
       "category": "Other"
     },
     {
-      "name": "Shipyardhq ship",
-      "domain": "yardhq.dev",
-      "url": "https://yardhq.dev",
+      "name": "Shipyardhq",
+      "domain": "shipyardhq.dev",
+      "url": "https://shipyardhq.dev",
       "dr": 33,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -7301,9 +7301,9 @@
       "category": "General Directories"
     },
     {
-      "name": "ShipY ard HQ ship",
-      "domain": "yardhq.com",
-      "url": "https://yardhq.com",
+      "name": "ShipY ard HQ",
+      "domain": "shipyardhq.com",
+      "url": "https://shipyardhq.com",
       "dr": 33,
       "link_type": "Dofollow",
       "pricing": "Freemium",
@@ -7314,9 +7314,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "The Startup Incthestar",
-      "domain": "tupinc.com",
-      "url": "https://tupinc.com",
+      "name": "The Startup Inc",
+      "domain": "thestartupinc.com",
+      "url": "https://thestartupinc.com",
       "dr": 33,
       "link_type": "Nofollow",
       "pricing": "Paid",
@@ -7340,7 +7340,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai",
+      "name": "Ai Valley",
       "domain": "aivalley.ai",
       "url": "https://aivalley.ai",
       "dr": 32,
@@ -7405,9 +7405,9 @@
       "category": "Communities"
     },
     {
-      "name": "Power edbyai power",
-      "domain": "edbyai.app",
-      "url": "https://edbyai.app",
+      "name": "Powered by AI",
+      "domain": "poweredbyai.app",
+      "url": "https://poweredbyai.app",
       "dr": 32,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -7483,9 +7483,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Builtb yindies builtb",
-      "domain": "yindies.com",
-      "url": "https://yindies.com",
+      "name": "Built by indies ",
+      "domain": "builtbyindies.com",
+      "url": "https://builtbyindies.com",
       "dr": 31,
       "link_type": "Dofollow",
       "pricing": "Freemium",
@@ -7509,7 +7509,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Go",
+      "name": "Go Publicly",
       "domain": "go-publicly.com",
       "url": "https://go-publicly.com",
       "dr": 31,
@@ -7535,7 +7535,7 @@
       "category": "General Directories"
     },
     {
-      "name": "List Y our",
+      "name": "List Your Idea",
       "domain": "listyouridea.com",
       "url": "https://listyouridea.com",
       "dr": 31,
@@ -7639,7 +7639,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Ai Tool",
+      "name": "Ai Tool guru",
       "domain": "aitoolguru.com",
       "url": "https://aitoolguru.com",
       "dr": 30,
@@ -7691,7 +7691,7 @@
       "category": "Communities"
     },
     {
-      "name": "Llm Rele",
+      "name": "Llm Relevance",
       "domain": "llmrelevance.com",
       "url": "https://llmrelevance.com",
       "dr": 30,
@@ -7795,7 +7795,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai",
+      "name": "Ai Trendz",
       "domain": "aitrendz.xyz",
       "url": "https://aitrendz.xyz",
       "dr": 29,
@@ -7808,7 +7808,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Alive",
+      "name": "Alive Directory",
       "domain": "alivedirectory.com",
       "url": "https://alivedirectory.com",
       "dr": 29,
@@ -7951,7 +7951,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai",
+      "name": "Ai Directory",
       "domain": "aidirectory.com",
       "url": "https://aidirectory.com",
       "dr": 28,
@@ -7977,9 +7977,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Indiehack erstacks indiehack",
-      "domain": "erstacks.com",
-      "url": "https://erstacks.com",
+      "name": "Indiehack erstacks ",
+      "domain": "indiehackerstacks.com",
+      "url": "https://indiehackerstacks.com",
       "dr": 28,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -8029,7 +8029,7 @@
       "category": "Dev & Open Source"
     },
     {
-      "name": "Side Project",
+      "name": "Side Project Stack",
       "domain": "sideprojectstack.com",
       "url": "https://sideprojectstack.com",
       "dr": 28,
@@ -8081,7 +8081,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Ai",
+      "name": "Ai Depot",
       "domain": "aidepot.co",
       "url": "https://aidepot.co",
       "dr": 27,
@@ -8120,9 +8120,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Insanely Cool Tools insanely",
-      "domain": "cooltools.com",
-      "url": "https://cooltools.com",
+      "name": "Insanely Cool Tools ",
+      "domain": "insanelycooltools.com",
+      "url": "https://insanelycooltools.com",
       "dr": 27,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -8185,9 +8185,9 @@
       "category": "Communities"
     },
     {
-      "name": "Wearenocode wear",
-      "domain": "enocode.com",
-      "url": "https://enocode.com",
+      "name": "Wearenocode ",
+      "domain": "wearenocode.com",
+      "url": "https://wearenocode.com",
       "dr": 27,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -8445,7 +8445,7 @@
       "category": "General Directories"
     },
     {
-      "name": "AI",
+      "name": "AI Forums",
       "domain": "aiforums.co",
       "url": "https://aiforums.co",
       "dr": 23,
@@ -8471,7 +8471,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Bro",
+      "name": "Bro Directory",
       "domain": "bro.directory",
       "url": "https://bro.directory",
       "dr": 23,
@@ -8575,9 +8575,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "Dan Recommends danr",
-      "domain": "ecommends.com",
-      "url": "https://ecommends.com",
+      "name": "Dan Recommends",
+      "domain": "danrecommends.com",
+      "url": "https://danrecommends.com",
       "dr": 21,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -8640,7 +8640,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Ai",
+      "name": "Ai Demos",
       "domain": "aidemos.com",
       "url": "https://aidemos.com",
       "dr": 20,
@@ -8679,7 +8679,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Internet Is",
+      "name": "Internet Is Beautiful",
       "domain": "internetisbeautiful.com",
       "url": "https://internetisbeautiful.com",
       "dr": 20,
@@ -8692,7 +8692,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Made With",
+      "name": "Made With Bolt",
       "domain": "madewithbolt.com",
       "url": "https://madewithbolt.com",
       "dr": 20,
@@ -8770,7 +8770,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Selected",
+      "name": "Selected Site",
       "domain": "selected.site",
       "url": "https://selected.site",
       "dr": 19,
@@ -8835,7 +8835,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Hd",
+      "name": "Hd Robots",
       "domain": "hdrobots.com",
       "url": "https://hdrobots.com",
       "dr": 18,
@@ -8861,8 +8861,8 @@
       "category": "Marketplaces & Deals"
     },
     {
-      "name": "Open Gr aph Examples opengr",
-      "domain": "aphexamples.com",
+      "name": "Open Graph Examples ",
+      "domain": "opengraphexamples.com",
       "url": "https://aphexamples.com",
       "dr": 18,
       "link_type": "Unknown",
@@ -8926,9 +8926,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "Android United andr",
-      "domain": "oid-united.community",
-      "url": "https://oid-united.community",
+      "name": "Android United ",
+      "domain": "android-united.community",
+      "url": "https://android-united.community",
       "dr": 17,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -9017,9 +9017,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Monk ey Ai Tools monk",
-      "domain": "eyaitools.com",
-      "url": "https://eyaitools.com",
+      "name": "Monk ey Ai Tools ",
+      "domain": "monkeyaitools.com",
+      "url": "https://monkeyaitools.com",
       "dr": 16,
       "link_type": "Dofollow",
       "pricing": "Paid",
@@ -9134,7 +9134,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Indie W",
+      "name": "Indie World Wide Web",
       "domain": "indieworldwide.com",
       "url": "https://indieworldwide.com",
       "dr": 15,
@@ -9238,7 +9238,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai",
+      "name": "Ai Tool board",
       "domain": "aitoolboard.com",
       "url": "https://aitoolboard.com",
       "dr": 14,
@@ -9251,7 +9251,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Appoid",
+      "name": "Appiod",
       "domain": "appiod.com",
       "url": "https://appiod.com",
       "dr": 14,
@@ -9264,7 +9264,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Apps And",
+      "name": "Apps And Websites",
       "domain": "appsandwebsites.com",
       "url": "https://appsandwebsites.com",
       "dr": 14,
@@ -9342,9 +9342,9 @@
       "category": "Communities"
     },
     {
-      "name": "The Ai W arehouse thewar",
-      "domain": "ehouse.ai",
-      "url": "https://ehouse.ai",
+      "name": "The Ai Warehouse ",
+      "domain": "thewarehouse.ai",
+      "url": "https://thewarehouse.ai",
       "dr": 14,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -9446,7 +9446,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Ai",
+      "name": "Ai dude",
       "domain": "aidude.info",
       "url": "https://aidude.info",
       "dr": 12,
@@ -9485,7 +9485,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Free Ai",
+      "name": "Free Ai Apps",
       "domain": "freeappsai.com",
       "url": "https://freeappsai.com",
       "dr": 12,
@@ -9758,7 +9758,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Waild W",
+      "name": "Waild World",
       "domain": "waildworld.com",
       "url": "https://waildworld.com",
       "dr": 10,
@@ -9823,9 +9823,9 @@
       "category": "Design"
     },
     {
-      "name": "Silicon Pr airie Techsiliconpr",
-      "domain": "airietech.com",
-      "url": "https://airietech.com",
+      "name": "Silicon Prairie Tech",
+      "domain": "siliconprairietech.com",
+      "url": "https://siliconprairietech.com",
       "dr": 9,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -9836,7 +9836,7 @@
       "category": "Communities"
     },
     {
-      "name": "Ai",
+      "name": "Ai Finder",
       "domain": "ai-finder.net",
       "url": "https://ai-finder.net",
       "dr": 8,
@@ -9862,8 +9862,8 @@
       "category": "General Directories"
     },
     {
-      "name": "Canop y Directory canop",
-      "domain": "ydirectory.com",
+      "name": "Canopy Directory",
+      "domain": "canopydirectory.com",
       "url": "https://ydirectory.com",
       "dr": 8,
       "link_type": "Dofollow",
@@ -9966,7 +9966,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Disco ver The Best Ar tificial Intelligence",
+      "name": "Discover The Best Artificial Intelligence and No Code Tools",
       "domain": "toolsnocode.com",
       "url": "https://toolsnocode.com",
       "dr": 6,
@@ -9979,9 +9979,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "Founder opedia founder",
-      "domain": "opedia.com",
-      "url": "https://opedia.com",
+      "name": "Founderopedia ",
+      "domain": "founderopedia.com",
+      "url": "https://founderopedia.com",
       "dr": 6,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -10005,9 +10005,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Hackers P ad hack",
-      "domain": "erspad.net",
-      "url": "https://erspad.net",
+      "name": "Hackers Pad ",
+      "domain": "hackerspad.net",
+      "url": "https://hackerspad.net",
       "dr": 6,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -10031,9 +10031,9 @@
       "category": "Communities"
     },
     {
-      "name": "Microstartups micr",
-      "domain": "ostartups.co",
-      "url": "https://ostartups.co",
+      "name": "Microstartups",
+      "domain": "microstartups.co",
+      "url": "https://microstartups.co",
       "dr": 6,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -10057,7 +10057,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Ai Tools",
+      "name": "Ai Tools Buzz",
       "domain": "aitoolbuzz.com",
       "url": "https://aitoolbuzz.com",
       "dr": 5,
