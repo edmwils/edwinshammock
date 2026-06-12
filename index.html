@@ -203,13 +203,35 @@
       font-weight: 400;
       letter-spacing: 0.18em;
       font-size: clamp(9px, 1vw, 13px);
-      letter-spacing: 0.18em;
       padding: 6px 14px;
       cursor: pointer;
       z-index: 20;
       transition: background 0.2s;
     }
     #sound-btn:hover { background: rgba(255,220,120,0.15); }
+
+    #tools-link {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      background: rgba(0,0,0,0.35);
+      border: 1px solid rgba(255,232,160,0.3);
+      color: rgba(255,232,160,0.5);
+      font-family: 'Cinzel', serif;
+      font-weight: 400;
+      font-size: clamp(8px, 0.9vw, 11px);
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: 5px 12px;
+      z-index: 20;
+      transition: color 0.25s, border-color 0.25s, background 0.25s;
+    }
+    #tools-link:hover {
+      color: rgba(255,232,160,0.9);
+      border-color: rgba(255,232,160,0.55);
+      background: rgba(255,220,120,0.08);
+    }
   </style>
 </head>
 <body>
@@ -226,6 +248,7 @@
 </div>
 
 <button id="sound-btn" onclick="toggleSound()">♪ SOUND ON</button>
+<a id="tools-link" href="/tools/launch-directory/">Tools ↗</a>
 
 <script>
 let t = 0;

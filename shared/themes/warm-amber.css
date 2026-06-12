@@ -1,0 +1,57 @@
+/*
+ * ============================================================
+ *  THEME: Warm Amber
+ *  Rich dark brown/charcoal background with golden amber accent.
+ *  Feels cosy, editorial, artisanal.
+ *  To activate: change brand.css import to this file.
+ * ============================================================
+ */
+:root {
+  /* Backgrounds */
+  --brand-bg:             #100d08;
+  --brand-surface:        #1a1510;
+  --brand-surface-hover:  #221c14;
+
+  /* Accent */
+  --brand-accent:         #e8a94a;
+  --brand-accent-glow:    rgba(232, 169, 74, 0.14);
+  --brand-accent-border:  rgba(232, 169, 74, 0.30);
+
+  /* Text */
+  --brand-text:           #f5efe6;
+  --brand-text-secondary: #a89880;
+  --brand-text-muted:     #5c4f3a;
+
+  /* Borders */
+  --brand-border:         rgba(255, 220, 150, 0.07);
+  --brand-border-hover:   rgba(255, 220, 150, 0.16);
+
+  /* Semantic colours */
+  --brand-green:          #6fcf97;
+  --brand-amber:          #f2c94c;
+  --brand-red:            #eb5757;
+  --brand-blue:           #56ccf2;
+  --brand-cyan:           #27ae60;
+
+  /* Typography */
+  --brand-font:           'Inter', -apple-system, sans-serif;
+  --brand-font-display:   'Cinzel', serif;
+  --brand-font-mono:      'SF Mono', 'Fira Code', monospace;
+
+  /* Shape */
+  --brand-radius:         8px;
+  --brand-radius-sm:      4px;
+  --brand-radius-pill:    100px;
+
+  /* Shadows */
+  --brand-shadow:         0 1px 3px rgba(0,0,0,0.5), 0 4px 16px rgba(0,0,0,0.4);
+  --brand-shadow-hover:   0 2px 8px rgba(0,0,0,0.6), 0 8px 32px rgba(0,0,0,0.5);
+
+  /* Motion */
+  --brand-transition:     0.20s ease;
+
+  /* Nav */
+  --brand-nav-bg:         rgba(16, 13, 8, 0.88);
+  --brand-nav-text:       rgba(245, 239, 230, 0.55);
+  --brand-nav-text-hover: #f5efe6;
+}

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Launch Directory — 798 Sites to Submit Your SaaS</title>
+  <meta name="description" content="A curated, filterable list of 798+ directories, communities, and platforms to submit and launch your SaaS or startup." />
+  <meta property="og:title" content="Launch Directory — 798 Sites to Submit Your SaaS" />
+  <meta property="og:description" content="Filter by category, pricing, DR score, and link type. Find the best places to launch your product." />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../../shared/nav.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Minimal site nav -->
+  <nav class="eh-nav" aria-label="Site navigation">
+    <a class="eh-nav-home" href="/">
+      <svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M9 2L4 7l5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      Edwin's Hammock
+    </a>
+    <div class="eh-nav-links">
+      <!-- Add more tool links here as you build them -->
+    </div>
+  </nav>
+  <div class="eh-nav-offset"></div>
+
+  <!-- Hero -->
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="hero-badge">Free Resource</div>
+      <h1>Launch Directory</h1>
+      <p class="hero-sub">Every place to submit your SaaS, startup, or product — curated & filterable.</p>
+      <div class="stats-row">
+        <div class="stat">
+          <span class="stat-num" data-target="798">0</span>
+          <span class="stat-label">Sites</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num" data-target="12">0</span>
+          <span class="stat-label">Categories</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num" data-target="599">0</span>
+          <span class="stat-label">Free</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num" data-target="507">0</span>
+          <span class="stat-label">Dofollow</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Filters -->
+  <div class="filters-wrapper" id="filters">
+    <div class="filters-inner">
+
+      <!-- Search -->
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="9" cy="9" r="6" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <input type="text" id="search" placeholder="Search sites…" autocomplete="off" />
+        <span class="result-count" id="result-count">—</span>
+      </div>
+
+      <!-- Category pills -->
+      <div class="filter-group">
+        <label class="filter-label">Category</label>
+        <div class="pills" id="category-pills">
+          <button class="pill active" data-value="all">All</button>
+        </div>
+      </div>
+
+      <!-- Pricing -->
+      <div class="filter-group">
+        <label class="filter-label">Pricing</label>
+        <div class="pills" id="pricing-pills">
+          <button class="pill active" data-value="all">All</button>
+          <button class="pill" data-value="Free">Free</button>
+          <button class="pill" data-value="Freemium">Freemium</button>
+          <button class="pill" data-value="Paid">Paid</button>
+        </div>
+      </div>
+
+      <!-- Toggles row -->
+      <div class="toggles-row">
+        <label class="toggle-label">
+          <input type="checkbox" id="dofollow-only" />
+          <span class="toggle-track"></span>
+          Dofollow only
+        </label>
+        <label class="toggle-label">
+          <input type="checkbox" id="top-only" />
+          <span class="toggle-track"></span>
+          ⭐ Top picks only
+        </label>
+        <label class="toggle-label">
+          <input type="checkbox" id="free-only" />
+          <span class="toggle-track"></span>
+          Free only
+        </label>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Grid -->
+  <main class="main">
+    <div class="grid" id="grid">
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>Loading directories…</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Source: Clakr SaaS Directory CRM &nbsp;·&nbsp; <span id="footer-count">798</span> sites curated</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

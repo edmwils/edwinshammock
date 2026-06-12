@@ -1,0 +1,56 @@
+/*
+ * ============================================================
+ *  THEME: Dark Purple (Default)
+ *  Deep space dark background with purple accent.
+ *  Current active theme for Edwin's Hammock.
+ * ============================================================
+ */
+:root {
+  /* Backgrounds */
+  --brand-bg:             #0a0b0f;
+  --brand-surface:        #111318;
+  --brand-surface-hover:  #16181f;
+
+  /* Accent */
+  --brand-accent:         #7c6fcd;
+  --brand-accent-glow:    rgba(124, 111, 205, 0.15);
+  --brand-accent-border:  rgba(124, 111, 205, 0.30);
+
+  /* Text */
+  --brand-text:           #f0f1f5;
+  --brand-text-secondary: #8b8fa8;
+  --brand-text-muted:     #4e5166;
+
+  /* Borders */
+  --brand-border:         rgba(255, 255, 255, 0.07);
+  --brand-border-hover:   rgba(255, 255, 255, 0.14);
+
+  /* Semantic colours (keep consistent across themes) */
+  --brand-green:          #34d399;
+  --brand-amber:          #fbbf24;
+  --brand-red:            #f87171;
+  --brand-blue:           #60a5fa;
+  --brand-cyan:           #3ecfcf;
+
+  /* Typography */
+  --brand-font:           'Inter', -apple-system, sans-serif;
+  --brand-font-display:   'Fredoka', sans-serif;
+  --brand-font-mono:      'SF Mono', 'Fira Code', monospace;
+
+  /* Shape */
+  --brand-radius:         10px;
+  --brand-radius-sm:      6px;
+  --brand-radius-pill:    100px;
+
+  /* Shadows */
+  --brand-shadow:         0 1px 3px rgba(0,0,0,0.4), 0 4px 16px rgba(0,0,0,0.3);
+  --brand-shadow-hover:   0 2px 8px rgba(0,0,0,0.5), 0 8px 32px rgba(0,0,0,0.4);
+
+  /* Motion */
+  --brand-transition:     0.18s ease;
+
+  /* Nav */
+  --brand-nav-bg:         rgba(10, 11, 15, 0.85);
+  --brand-nav-text:       rgba(240, 241, 245, 0.60);
+  --brand-nav-text-hover: #f0f1f5;
+}

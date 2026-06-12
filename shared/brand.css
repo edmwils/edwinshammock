@@ -1,0 +1,17 @@
+/*
+ * ============================================================
+ *  BRAND TOKENS — Edwin's Hammock
+ *  ============================================================
+ *  This is THE single file to change when retheming the site.
+ *
+ *  To switch themes:
+ *    1. Open the theme file in shared/themes/
+ *    2. Copy its :root block over the one below
+ *    — OR —
+ *    Replace this @import with a theme import:
+ *    @import url('./themes/warm-amber.css');
+ * ============================================================
+ */
+
+/* Active theme: dark-purple (default) */
+@import url('./themes/dark-purple.css');

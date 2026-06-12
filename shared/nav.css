@@ -1,0 +1,78 @@
+/*
+ * ============================================================
+ *  SHARED NAV — Edwin's Hammock
+ *  Minimal top-left back-link. Import in every tool page.
+ *  Depends on: brand.css (must be imported before this)
+ * ============================================================
+ */
+
+.eh-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  height: 44px;
+  background: var(--brand-nav-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--brand-border);
+}
+
+/* Back-link: "← Edwin's Hammock" */
+.eh-nav-home {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--brand-font);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--brand-nav-text);
+  text-decoration: none;
+  transition: color var(--brand-transition);
+}
+
+.eh-nav-home:hover {
+  color: var(--brand-nav-text-hover);
+}
+
+.eh-nav-home svg {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  transition: transform var(--brand-transition);
+}
+
+.eh-nav-home:hover svg {
+  transform: translateX(-2px);
+}
+
+/* Right-side tool links (optional) */
+.eh-nav-links {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.eh-nav-link {
+  font-family: var(--brand-font);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--brand-nav-text);
+  text-decoration: none;
+  transition: color var(--brand-transition);
+}
+
+.eh-nav-link:hover {
+  color: var(--brand-nav-text-hover);
+}
+
+/* Push page content below the nav */
+.eh-nav-offset {
+  height: 44px;
+}

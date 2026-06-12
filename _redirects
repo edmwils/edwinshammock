@@ -1,0 +1,5 @@
+# Friendly short URLs → canonical tool paths
+# Add one line per tool as you build them.
+
+/launch-directory   /tools/launch-directory/   301
+/launch             /tools/launch-directory/   301
