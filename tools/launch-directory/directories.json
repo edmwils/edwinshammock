@@ -147,7 +147,7 @@
       "benefit": "Launch traffic",
       "is_top": true,
       "is_new": false,
-      "description": "Design por tfolio exposure",
+      "description": "Design portfolio exposure",
       "category": "Design"
     },
     {
@@ -212,7 +212,7 @@
       "benefit": "Launch traffic",
       "is_top": false,
       "is_new": false,
-      "description": "Phot o distribution",
+      "description": "Photo distribution",
       "category": "General Directories"
     },
     {
@@ -238,7 +238,7 @@
       "benefit": "",
       "is_top": false,
       "is_new": false,
-      "description": "Local consumer r eviews",
+      "description": "Local consumer reviews",
       "category": "General Directories"
     },
     {
@@ -255,7 +255,7 @@
       "category": "Design"
     },
     {
-      "name": "Fmhy fmhy",
+      "name": "Fmhyfmhy",
       "domain": "pages.dev",
       "url": "https://pages.dev",
       "dr": 93,
@@ -268,9 +268,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Guar dian Technology theguar",
-      "domain": "dian.com",
-      "url": "https://dian.com",
+      "name": "Guardian Technology",
+      "domain": "theguardian.com",
+      "url": "https://theguardian.com",
       "dr": 93,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -359,7 +359,7 @@
       "category": "Tech Press"
     },
     {
-      "name": "Huffpost",
+      "name": "HuffPost",
       "domain": "huffpost.com",
       "url": "https://huffpost.com",
       "dr": 92,
@@ -411,9 +411,9 @@
       "category": "Dev & Open Source"
     },
     {
-      "name": "Stack Ov erflow stacko",
-      "domain": "verflow.com",
-      "url": "https://verflow.com",
+      "name": "Stack Overflow",
+      "domain": "stackoverflow.com",
+      "url": "https://stackoverflow.com",
       "dr": 92,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -424,7 +424,7 @@
       "category": "Dev & Open Source"
     },
     {
-      "name": "Tech |",
+      "name": "Time — Tech",
       "domain": "time.com",
       "url": "https://time.com",
       "dr": 92,
@@ -450,7 +450,7 @@
       "category": "Tech Press"
     },
     {
-      "name": "The V",
+      "name": "The Verge",
       "domain": "theverge.com",
       "url": "https://theverge.com",
       "dr": 92,
@@ -463,7 +463,7 @@
       "category": "Tech Press"
     },
     {
-      "name": "The W all Str eet Journal",
+      "name": "The Wall Street Journal",
       "domain": "wsj.com",
       "url": "https://wsj.com",
       "dr": 92,
@@ -524,7 +524,7 @@
       "benefit": "",
       "is_top": false,
       "is_new": false,
-      "description": "B2B ser vices r eviews",
+      "description": "B2B services reviews",
       "category": "Software Reviews"
     },
     {
@@ -593,9 +593,9 @@
       "category": "Communities"
     },
     {
-      "name": "Huffingt onpost huffingt",
-      "domain": "onpost.com",
-      "url": "https://onpost.com",
+      "name": "HuffPost",
+      "domain": "huffpost.com",
+      "url": "https://huffpost.com",
       "dr": 91,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -671,7 +671,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Product",
+      "name": "Product Hunt",
       "domain": "producthunt.com",
       "url": "https://producthunt.com",
       "dr": 91,
@@ -684,9 +684,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Ventur ebeat ventur",
-      "domain": "ebeat.com",
-      "url": "https://ebeat.com",
+      "name": "VentureBeat",
+      "domain": "venturebeat.com",
+      "url": "https://venturebeat.com",
       "dr": 91,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -732,7 +732,7 @@
       "benefit": "Community & founders",
       "is_top": true,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
@@ -762,9 +762,9 @@
       "category": "Tech Press"
     },
     {
-      "name": "Mit Technology Re view technologyr",
-      "domain": "eview.com",
-      "url": "https://eview.com",
+      "name": "MIT Technology Review",
+      "domain": "technologyreview.com",
+      "url": "https://technologyreview.com",
       "dr": 90,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -814,9 +814,9 @@
       "category": "Tech Press"
     },
     {
-      "name": "Awwwar ds awwwar",
-      "domain": "ds.com",
-      "url": "https://ds.com",
+      "name": "Awwwards",
+      "domain": "awwwards.com",
+      "url": "https://awwwards.com",
       "dr": 89,
       "link_type": "Nofollow",
       "pricing": "Paid",
@@ -836,13 +836,13 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
-      "name": "Mak e App Directory mak",
-      "domain": "e.com",
-      "url": "https://e.com",
+      "name": "Make (Integromat)",
+      "domain": "make.com",
+      "url": "https://make.com",
       "dr": 89,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -879,9 +879,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Buzzf eed News buzzf",
-      "domain": "eednews.com",
-      "url": "https://eednews.com",
+      "name": "BuzzFeed News",
+      "domain": "buzzfeednews.com",
+      "url": "https://buzzfeednews.com",
       "dr": 88,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -901,7 +901,7 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
@@ -918,9 +918,9 @@
       "category": "Tech Press"
     },
     {
-      "name": "Techr epublic techr",
-      "domain": "epublic.com",
-      "url": "https://epublic.com",
+      "name": "TechRepublic",
+      "domain": "techrepublic.com",
+      "url": "https://techrepublic.com",
       "dr": 88,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -966,13 +966,13 @@
       "benefit": "",
       "is_top": false,
       "is_new": false,
-      "description": "B2B r eview scoring",
+      "description": "B2B review scoring",
       "category": "Software Reviews"
     },
     {
-      "name": "Hack ernoon hack",
-      "domain": "ernoon.com",
-      "url": "https://ernoon.com",
+      "name": "Hackernoon",
+      "domain": "hackernoon.com",
+      "url": "https://hackernoon.com",
       "dr": 87,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -983,9 +983,9 @@
       "category": "Tech Press"
     },
     {
-      "name": "Mak e Use Of mak",
-      "domain": "euseof.com",
-      "url": "https://euseof.com",
+      "name": "MakeUseOf",
+      "domain": "makeuseof.com",
+      "url": "https://makeuseof.com",
       "dr": 87,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -996,9 +996,9 @@
       "category": "Tech Press"
     },
     {
-      "name": "Softwar e Advice softwar",
-      "domain": "eadvice.com",
-      "url": "https://eadvice.com",
+      "name": "Software Advice",
+      "domain": "softwareadvice.com",
+      "url": "https://softwareadvice.com",
       "dr": 87,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -1096,7 +1096,7 @@
       "benefit": "Launch traffic",
       "is_top": false,
       "is_new": false,
-      "description": "Download por tal traffic",
+      "description": "Download portal traffic",
       "category": "SaaS & Alternatives"
     },
     {
@@ -1126,9 +1126,9 @@
       "category": "Tech Press"
     },
     {
-      "name": "Andr oid A uthority andr",
-      "domain": "oidauthority.com",
-      "url": "https://oidauthority.com",
+      "name": "Android Authority",
+      "domain": "androidauthority.com",
+      "url": "https://androidauthority.com",
       "dr": 85,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -1148,7 +1148,7 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
@@ -1161,7 +1161,7 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
@@ -1230,9 +1230,9 @@
       "category": "Communities"
     },
     {
-      "name": "Marketingpr ofs marketingpr",
-      "domain": "ofs.com",
-      "url": "https://ofs.com",
+      "name": "MarketingProfs",
+      "domain": "marketingprofs.com",
+      "url": "https://marketingprofs.com",
       "dr": 83,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -1360,9 +1360,9 @@
       "category": "Tech Press"
     },
     {
-      "name": "Hotfr og hotfr",
-      "domain": "og.com",
-      "url": "https://og.com",
+      "name": "Hotfrog",
+      "domain": "hotfrog.com",
+      "url": "https://hotfrog.com",
       "dr": 81,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -1373,9 +1373,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Indie Hack ers indiehack",
-      "domain": "ers.com",
-      "url": "https://ers.com",
+      "name": "Indie Hackers",
+      "domain": "indiehackers.com",
+      "url": "https://indiehackers.com",
       "dr": 81,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -1399,9 +1399,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Smar t Cust omer smar tcust",
-      "domain": "omer.com",
-      "url": "https://omer.com",
+      "name": "Smart Customer",
+      "domain": "smartcustomer.com",
+      "url": "https://smartcustomer.com",
       "dr": 81,
       "link_type": "Dofollow",
       "pricing": "Paid",
@@ -1477,9 +1477,9 @@
       "category": "Marketplaces & Deals"
     },
     {
-      "name": "Alternativeto alternativ",
-      "domain": "eto.net",
-      "url": "https://eto.net",
+      "name": "AlternativeTo",
+      "domain": "alternativeto.net",
+      "url": "https://alternativeto.net",
       "dr": 79,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -1503,9 +1503,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Compar ably compar",
-      "domain": "ably.com",
-      "url": "https://ably.com",
+      "name": "Comparably",
+      "domain": "comparably.com",
+      "url": "https://comparably.com",
       "dr": 79,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -1607,9 +1607,9 @@
       "category": "Tech Press"
     },
     {
-      "name": "Designspir ation designspir",
-      "domain": "ation.com",
-      "url": "https://ation.com",
+      "name": "Designspiration",
+      "domain": "designspiration.com",
+      "url": "https://designspiration.com",
       "dr": 78,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -1659,9 +1659,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Andr oid Headlines andr",
-      "domain": "oidheadlines.com",
-      "url": "https://oidheadlines.com",
+      "name": "Android Headlines",
+      "domain": "androidheadlines.com",
+      "url": "https://androidheadlines.com",
       "dr": 77,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -1698,9 +1698,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Mac St ories macst",
-      "domain": "ories.net",
-      "url": "https://ories.net",
+      "name": "MacStories",
+      "domain": "macstories.net",
+      "url": "https://macstories.net",
       "dr": 77,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -1724,9 +1724,9 @@
       "category": "Dev & Open Source"
     },
     {
-      "name": "Softwar esuggest softwar",
-      "domain": "esuggest.com",
-      "url": "https://esuggest.com",
+      "name": "SoftwareSuggest",
+      "domain": "softwaresuggest.com",
+      "url": "https://softwaresuggest.com",
       "dr": 77,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -1750,9 +1750,9 @@
       "category": "Communities"
     },
     {
-      "name": "There's An AI For That theresanaifor",
-      "domain": "that.com",
-      "url": "https://that.com",
+      "name": "There's An AI For That",
+      "domain": "theresanaiforthat.com",
+      "url": "https://theresanaiforthat.com",
       "dr": 77,
       "link_type": "Dofollow",
       "pricing": "Paid",
@@ -1971,9 +1971,9 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Saaswor thy saaswor",
-      "domain": "thy.com",
-      "url": "https://thy.com",
+      "name": "SaaSworthy",
+      "domain": "saasworthy.com",
+      "url": "https://saasworthy.com",
       "dr": 75,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -1997,9 +1997,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Activ e Sear ch Results activ esear",
-      "domain": "chresults.com",
-      "url": "https://chresults.com",
+      "name": "Activ e Sear ch Results",
+      "domain": "activesearchresults.com",
+      "url": "https://activesearchresults.com",
       "dr": 74,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -2058,13 +2058,13 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
-      "name": "Getting Smar t gettingsmar",
-      "domain": "t.com",
-      "url": "https://t.com",
+      "name": "Getting Smart",
+      "domain": "gettingsmart.com",
+      "url": "https://gettingsmart.com",
       "dr": 74,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -2153,9 +2153,9 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Webrazzi webr",
-      "domain": "azzi.com",
-      "url": "https://azzi.com",
+      "name": "Webrazzi",
+      "domain": "webrazzi.com",
+      "url": "https://webrazzi.com",
       "dr": 74,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -2192,9 +2192,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "Addictiv e Tips addictiv",
-      "domain": "etips.com",
-      "url": "https://etips.com",
+      "name": "Addictive Tips",
+      "domain": "additivetips.com",
+      "url": "https://additivetips.com",
       "dr": 73,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -2205,9 +2205,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Ecommer cefuel ecommer",
-      "domain": "cefuel.com",
-      "url": "https://cefuel.com",
+      "name": "eCommerceFuel",
+      "domain": "ecommercefuel.com",
+      "url": "https://ecommercefuel.com",
       "dr": 73,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -2296,9 +2296,9 @@
       "category": "Software Reviews"
     },
     {
-      "name": "Softwar eReviews softwar",
-      "domain": "ereviews.com",
-      "url": "https://ereviews.com",
+      "name": "SoftwareReviews",
+      "domain": "softwarereviews.com",
+      "url": "https://softwarereviews.com",
       "dr": 73,
       "link_type": "Unknown",
       "pricing": "Free",
@@ -2309,9 +2309,9 @@
       "category": "Software Reviews"
     },
     {
-      "name": "Softwar eworld softwar",
-      "domain": "eworld.co",
-      "url": "https://eworld.co",
+      "name": "SoftwareWorld",
+      "domain": "softwareworld.co",
+      "url": "https://softwareworld.co",
       "dr": 73,
       "link_type": "Dofollow",
       "pricing": "Freemium",
@@ -2348,9 +2348,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "Viesear ch viesear",
-      "domain": "ch.com",
-      "url": "https://ch.com",
+      "name": "VieSearch",
+      "domain": "viesearch.com",
+      "url": "https://viesearch.com",
       "dr": 73,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -2387,9 +2387,9 @@
       "category": "General Directories"
     },
     {
-      "name": "All My F aves allmy",
-      "domain": "faves.com",
-      "url": "https://faves.com",
+      "name": "All My Faves",
+      "domain": "allmyfaves.com",
+      "url": "https://allmyfaves.com",
       "dr": 72,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -2452,9 +2452,9 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Link Centr e secur",
-      "domain": "e.link",
-      "url": "https://e.link",
+      "name": "Link Centr e",
+      "domain": "secure.link",
+      "url": "https://secure.link",
       "dr": 72,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -2556,9 +2556,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "Featur edcust omers featur edcust",
-      "domain": "omers.com",
-      "url": "https://omers.com",
+      "name": "FeaturedCustomers",
+      "domain": "featuredcustomers.com",
+      "url": "https://featuredcustomers.com",
       "dr": 71,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -2686,9 +2686,9 @@
       "category": "Design"
     },
     {
-      "name": "Saas Br owser saasbr",
-      "domain": "owser.com",
-      "url": "https://owser.com",
+      "name": "SaaS Browser",
+      "domain": "saasbrowser.com",
+      "url": "https://saasbrowser.com",
       "dr": 70,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -2699,9 +2699,9 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Sideproject ors sideproject",
-      "domain": "ors.com",
-      "url": "https://ors.com",
+      "name": "Sideproject ors",
+      "domain": "sideprojectorscom.com",
+      "url": "https://sideprojectorscom.com",
       "dr": 70,
       "link_type": "Dofollow",
       "pricing": "Freemium",
@@ -2829,9 +2829,9 @@
       "category": "Other"
     },
     {
-      "name": "Saaspir ate saaspir",
-      "domain": "ate.com",
-      "url": "https://ate.com",
+      "name": "SaaS Pirate",
+      "domain": "saaspirate.com",
+      "url": "https://saaspirate.com",
       "dr": 68,
       "link_type": "Dofollow",
       "pricing": "Paid",
@@ -3037,9 +3037,9 @@
       "category": "Design"
     },
     {
-      "name": "Predictiv e Analytics Today predictiv eanalyticst",
-      "domain": "oday.com",
-      "url": "https://oday.com",
+      "name": "Predictive Analytics Today",
+      "domain": "predictiveanalyticstoday.com",
+      "url": "https://predictiveanalyticstoday.com",
       "dr": 66,
       "link_type": "Unknown",
       "pricing": "Freemium",
@@ -3063,9 +3063,9 @@
       "category": "Communities"
     },
     {
-      "name": "Superb Cr ew superbcr",
-      "domain": "ew.com",
-      "url": "https://ew.com",
+      "name": "Superb Crew",
+      "domain": "superbcrew.com",
+      "url": "https://superbcrew.com",
       "dr": 66,
       "link_type": "Nofollow",
       "pricing": "Free",
@@ -3258,9 +3258,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai Best Top aibestt",
-      "domain": "op.com",
-      "url": "https://op.com",
+      "name": "AI Best Top",
+      "domain": "aibesttop.com",
+      "url": "https://aibesttop.com",
       "dr": 63,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -3297,7 +3297,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Stack er News stack",
+      "name": "Stack er Newsstack",
       "domain": "er.news",
       "url": "https://er.news",
       "dr": 63,
@@ -3479,9 +3479,9 @@
       "category": "AI Directories"
     },
     {
-      "name": "FridayHunt frida",
-      "domain": "yhunt.com",
-      "url": "https://yhunt.com",
+      "name": "FridayHunt",
+      "domain": "fridayhunt.com",
+      "url": "https://fridayhunt.com",
       "dr": 60,
       "link_type": "Dofollow",
       "pricing": "Freemium",
@@ -3492,7 +3492,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Launch Llama Tools",
+      "name": "Launch Llama",
       "domain": "tools.launchllama.co",
       "url": "https://tools.launchllama.co",
       "dr": 60,
@@ -3518,7 +3518,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Magai' s Ai Libr ary",
+      "name": "Magai AI Library",
       "domain": "magai.co",
       "url": "https://magai.co",
       "dr": 60,
@@ -3609,9 +3609,9 @@
       "category": "Other"
     },
     {
-      "name": "Micr olaunch micr",
-      "domain": "olaunch.net",
-      "url": "https://olaunch.net",
+      "name": "Microlaunch",
+      "domain": "microlaunch.net",
+      "url": "https://microlaunch.net",
       "dr": 59,
       "link_type": "Dofollow",
       "pricing": "Free",
@@ -3700,9 +3700,9 @@
       "category": "General Directories"
     },
     {
-      "name": "Admir e The Web admir",
-      "domain": "etheweb.com",
-      "url": "https://etheweb.com",
+      "name": "Admire The Web",
+      "domain": "admiretheweb.com",
+      "url": "https://admiretheweb.com",
       "dr": 58,
       "link_type": "Dofollow",
       "pricing": "Paid",
@@ -3830,7 +3830,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Ai Libr ary",
+      "name": "Ai",
       "domain": "library.phygital.plus",
       "url": "https://library.phygital.plus",
       "dr": 57,
@@ -3865,7 +3865,7 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
@@ -3908,7 +3908,7 @@
       "category": "Communities"
     },
     {
-      "name": "Phygital+ Ai Libr ary",
+      "name": "Phygital+ Ai Library",
       "domain": "phygital.plus",
       "url": "https://phygital.plus",
       "dr": 57,
@@ -3973,7 +3973,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Ai Tool Trek aitooltr",
+      "name": "Ai Tool Trekaitooltr",
       "domain": "ek.com",
       "url": "https://ek.com",
       "dr": 56,
@@ -4233,7 +4233,7 @@
       "category": "Dev & Open Source"
     },
     {
-      "name": "Gptst ore gptst",
+      "name": "Gptst oregptst",
       "domain": "ore.ai",
       "url": "https://ore.ai",
       "dr": 55,
@@ -4597,7 +4597,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Ship ybar a ship ybar",
+      "name": "Shipybar a shipybar",
       "domain": "a.com",
       "url": "https://a.com",
       "dr": 52,
@@ -4844,7 +4844,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Pitchgr ound pitchgr",
+      "name": "Pitchgr oundpitchgr",
       "domain": "ound.com",
       "url": "https://ound.com",
       "dr": 50,
@@ -5104,7 +5104,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Commer ce Cr eam commer cecr",
+      "name": "Commer ce Cr eamcommer cecr",
       "domain": "eam.com",
       "url": "https://eam.com",
       "dr": 48,
@@ -5377,7 +5377,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Softwar e Bolt softwar",
+      "name": "Softwar e Boltsoftwar",
       "domain": "ebolt.com",
       "url": "https://ebolt.com",
       "dr": 46,
@@ -5429,7 +5429,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Tidy Repo tidyr",
+      "name": "Tidy Repotidyr",
       "domain": "epo.com",
       "url": "https://epo.com",
       "dr": 46,
@@ -5481,7 +5481,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Launch Scr oll launchscr",
+      "name": "Launch Scroll launchscr",
       "domain": "oll.com",
       "url": "https://oll.com",
       "dr": 45,
@@ -5520,7 +5520,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Outr each",
+      "name": "Outreach",
       "domain": "outreachdesk.com",
       "url": "https://outreachdesk.com",
       "dr": 45,
@@ -5741,7 +5741,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Best ofai best",
+      "name": "Bestofai best",
       "domain": "ofai.com",
       "url": "https://ofai.com",
       "dr": 43,
@@ -5806,7 +5806,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Secr et Sear ch Engine Labs secr etsear",
+      "name": "Secr et Sear ch Engine Labssecr etsear",
       "domain": "chenginelabs.com",
       "url": "https://chenginelabs.com",
       "dr": 43,
@@ -5871,7 +5871,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Viber ank viber",
+      "name": "Viber ankviber",
       "domain": "ank.dev",
       "url": "https://ank.dev",
       "dr": 43,
@@ -6131,7 +6131,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Remotely One remotely",
+      "name": "Remotely Oneremotely",
       "domain": "one.com",
       "url": "https://one.com",
       "dr": 41,
@@ -6144,7 +6144,7 @@
       "category": "Communities"
     },
     {
-      "name": "Smar t Kit Hub smar",
+      "name": "Smar t Kit Hubsmar",
       "domain": "tkithub.com",
       "url": "https://tkithub.com",
       "dr": 41,
@@ -6157,7 +6157,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Super Ai Boom super",
+      "name": "Super Ai Boomsuper",
       "domain": "aiboom.com",
       "url": "https://aiboom.com",
       "dr": 41,
@@ -6248,7 +6248,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Find Y our Saas findy",
+      "name": "Find Y our Saasfindy",
       "domain": "oursaas.com",
       "url": "https://oursaas.com",
       "dr": 40,
@@ -6387,7 +6387,7 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
@@ -6456,7 +6456,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Victr ays victr",
+      "name": "Victr aysvictr",
       "domain": "ays.com",
       "url": "https://ays.com",
       "dr": 39,
@@ -6586,7 +6586,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Conf etti Saas conf",
+      "name": "Confetti Saasconf",
       "domain": "ettisaas.com",
       "url": "https://ettisaas.com",
       "dr": 37,
@@ -6703,7 +6703,7 @@
       "category": "Software Reviews"
     },
     {
-      "name": "Find My Ai Tool findmy",
+      "name": "Find My Ai Toolfindmy",
       "domain": "aitool.com",
       "url": "https://aitool.com",
       "dr": 36,
@@ -6742,7 +6742,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Launcht ory launcht",
+      "name": "Launcht orylauncht",
       "domain": "ory.com",
       "url": "https://ory.com",
       "dr": 36,
@@ -6794,7 +6794,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Web Re view webr",
+      "name": "Web Re viewwebr",
       "domain": "eview.io",
       "url": "https://eview.io",
       "dr": 36,
@@ -6963,7 +6963,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Best Of Web best",
+      "name": "Best Of Webbest",
       "domain": "ofweb.site",
       "url": "https://ofweb.site",
       "dr": 34,
@@ -7041,7 +7041,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Micr ons micr",
+      "name": "Microns micr",
       "domain": "ons.io",
       "url": "https://ons.io",
       "dr": 34,
@@ -7054,7 +7054,7 @@
       "category": "Marketplaces & Deals"
     },
     {
-      "name": "Micr osaas Directory micr",
+      "name": "Microsaas Directory micr",
       "domain": "osaas.directory",
       "url": "https://osaas.directory",
       "dr": 34,
@@ -7288,7 +7288,7 @@
       "category": "Other"
     },
     {
-      "name": "Ship yardhq ship",
+      "name": "Shipyardhq ship",
       "domain": "yardhq.dev",
       "url": "https://yardhq.dev",
       "dr": 33,
@@ -7314,7 +7314,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "The Startup Inc thestar",
+      "name": "The Startup Incthestar",
       "domain": "tupinc.com",
       "url": "https://tupinc.com",
       "dr": 33,
@@ -7626,7 +7626,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai Na vbar aina",
+      "name": "Ai Na vbaraina",
       "domain": "vbar.ai",
       "url": "https://vbar.ai",
       "dr": 30,
@@ -7652,7 +7652,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Builtb yme builtb",
+      "name": "Builtb ymebuiltb",
       "domain": "yme.io",
       "url": "https://yme.io",
       "dr": 30,
@@ -8042,7 +8042,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "The P opular Apps thepopular",
+      "name": "The P opular Appsthepopular",
       "domain": "apps.com",
       "url": "https://apps.com",
       "dr": 28,
@@ -8289,7 +8289,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Payonceusefor ever payonceusefor",
+      "name": "Payonceusefor everpayonceusefor",
       "domain": "ever.io",
       "url": "https://ever.io",
       "dr": 25,
@@ -8809,7 +8809,7 @@
       "category": "Launchpads & Startups"
     },
     {
-      "name": "Appr ater appr",
+      "name": "Apprater appr",
       "domain": "ater.net",
       "url": "https://ater.net",
       "dr": 18,
@@ -8926,7 +8926,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Andr oid United andr",
+      "name": "Android United andr",
       "domain": "oid-united.community",
       "url": "https://oid-united.community",
       "dr": 17,
@@ -8935,7 +8935,7 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
@@ -9121,7 +9121,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Alter open alter",
+      "name": "Alter openalter",
       "domain": "open.com",
       "url": "https://open.com",
       "dr": 15,
@@ -9615,7 +9615,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Shar e Fast shar",
+      "name": "Shar e Fastshar",
       "domain": "efast.co",
       "url": "https://efast.co",
       "dr": 11,
@@ -9745,7 +9745,7 @@
       "category": "SaaS & Alternatives"
     },
     {
-      "name": "Startup Her oes startupher",
+      "name": "Startup Heroes startupher",
       "domain": "oes.io",
       "url": "https://oes.io",
       "dr": 10,
@@ -9823,7 +9823,7 @@
       "category": "Design"
     },
     {
-      "name": "Silicon Pr airie Tech siliconpr",
+      "name": "Silicon Pr airie Techsiliconpr",
       "domain": "airietech.com",
       "url": "https://airietech.com",
       "dr": 9,
@@ -9953,7 +9953,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "MCP Ser ver Directory mcpser",
+      "name": "MCP Server Directory mcpser",
       "domain": "ver.directory",
       "url": "https://ver.directory",
       "dr": 7,
@@ -9966,7 +9966,7 @@
       "category": "AI Directories"
     },
     {
-      "name": "Disco ver The Best Ar tificial Intelligence Tools",
+      "name": "Disco ver The Best Ar tificial Intelligence",
       "domain": "toolsnocode.com",
       "url": "https://toolsnocode.com",
       "dr": 6,
@@ -9992,7 +9992,7 @@
       "category": "Communities"
     },
     {
-      "name": "Hack The Pr ompt hackthepr",
+      "name": "Hack The Pr ompthackthepr",
       "domain": "ompt.com",
       "url": "https://ompt.com",
       "dr": 6,
@@ -10005,7 +10005,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Hack ers P ad hack",
+      "name": "Hackers P ad hack",
       "domain": "erspad.net",
       "url": "https://erspad.net",
       "dr": 6,
@@ -10014,7 +10014,7 @@
       "benefit": "Community & founders",
       "is_top": false,
       "is_new": false,
-      "description": "Developer r eadership",
+      "description": "Developer readership",
       "category": "Communities"
     },
     {
@@ -10031,7 +10031,7 @@
       "category": "Communities"
     },
     {
-      "name": "Micr ostartups micr",
+      "name": "Microstartups micr",
       "domain": "ostartups.co",
       "url": "https://ostartups.co",
       "dr": 6,
@@ -10083,7 +10083,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Openup vote openup",
+      "name": "Openup voteopenup",
       "domain": "vote.com",
       "url": "https://vote.com",
       "dr": 5,
@@ -10096,7 +10096,7 @@
       "category": "General Directories"
     },
     {
-      "name": "Ai Finder Guru aifinder",
+      "name": "Ai Finder Guruaifinder",
       "domain": "guru.com",
       "url": "https://guru.com",
       "dr": 4,
