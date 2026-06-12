@@ -144,11 +144,65 @@ body {
   position: sticky;
   top: 44px; /* offset below eh-nav */
   z-index: 100;
-  background: color-mix(in srgb, var(--bg) 90%, transparent);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border);
-  padding: 16px 24px;
+  padding: 12px 24px;          /* slightly tighter than before */
+  /* Auto-hide: translate up by own height when scrolling down */
+  transform: translateY(0);
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1),
+              box-shadow 0.28s ease;
+  will-change: transform;
+}
+
+.filters-wrapper.filters-hidden {
+  transform: translateY(-100%);
+  box-shadow: none;
+}
+
+/* Mini peek bar visible when filters are hidden */
+.filters-peek {
+  position: fixed;
+  top: 44px;
+  right: 20px;
+  z-index: 101;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px 5px 10px;
+  background: var(--brand-surface);
+  border: 1px solid var(--brand-border);
+  border-radius: var(--brand-radius-pill);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--brand-text-secondary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-4px);
+  box-shadow: var(--brand-shadow);
+}
+
+.filters-peek.peek-visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.filters-peek:hover {
+  color: var(--brand-text);
+  border-color: var(--brand-border-hover);
+  background: var(--brand-surface-hover);
+}
+
+.filters-peek svg {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
 }
 
 .filters-inner {
@@ -156,7 +210,7 @@ body {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 10px;
 }
 
 /* Search */

@@ -217,4 +217,73 @@ function animateStats() {
 // =============================================
 // BOOT
 // =============================================
-document.addEventListener('DOMContentLoaded', init);
+document.addEventListener('DOMContentLoaded', () => {
+  init();
+  initFilterAutoHide();
+});
+
+// =============================================
+// AUTO-HIDE FILTER BAR ON SCROLL
+// =============================================
+function initFilterAutoHide() {
+  const wrapper = document.getElementById('filters');
+  const peek    = document.getElementById('filters-peek');
+  if (!wrapper || !peek) return;
+
+  let lastScrollY  = window.scrollY;
+  let ticking      = false;
+  let filtersHidden = false;
+
+  // How far down the page before we start hiding (px) — past the hero
+  const HIDE_THRESHOLD = 120;
+  // Minimum scroll delta before we act (avoids micro-jitter)
+  const DELTA = 10;
+
+  function update() {
+    const currentY = window.scrollY;
+    const delta    = currentY - lastScrollY;
+
+    if (currentY < HIDE_THRESHOLD) {
+      // Near the top — always show
+      showFilters();
+    } else if (delta > DELTA) {
+      // Scrolling DOWN fast enough → hide
+      hideFilters();
+    } else if (delta < -DELTA) {
+      // Scrolling UP fast enough → show
+      showFilters();
+    }
+
+    lastScrollY = currentY;
+    ticking = false;
+  }
+
+  function hideFilters() {
+    if (filtersHidden) return;
+    filtersHidden = true;
+    wrapper.classList.add('filters-hidden');
+    peek.classList.add('peek-visible');
+  }
+
+  function showFilters() {
+    if (!filtersHidden) return;
+    filtersHidden = false;
+    wrapper.classList.remove('filters-hidden');
+    peek.classList.remove('peek-visible');
+  }
+
+  // Peek button click → show filters and scroll to them
+  peek.addEventListener('click', () => {
+    showFilters();
+    wrapper.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    // Focus the search input
+    setTimeout(() => document.getElementById('search')?.focus(), 300);
+  });
+
+  window.addEventListener('scroll', () => {
+    if (!ticking) {
+      requestAnimationFrame(update);
+      ticking = true;
+    }
+  }, { passive: true });
+}
