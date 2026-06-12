@@ -1,21 +1,13 @@
-/*
-  Cache static assets aggressively, pages more lightly
-*/
-
 # Tool pages — cache for 1 day
 /tools/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=3600
   X-Frame-Options: SAMEORIGIN
   X-Content-Type-Options: nosniff
 
-# JSON data files — cache for 4 hours
-/tools/*.json
-  Cache-Control: public, max-age=14400, stale-while-revalidate=3600
-
 # Shared assets — cache for 7 days
 /shared/*
   Cache-Control: public, max-age=604800, stale-while-revalidate=86400
 
-# Root / landing — short cache so you can update it quickly
+# Root landing page — short cache
 /
   Cache-Control: public, max-age=3600
